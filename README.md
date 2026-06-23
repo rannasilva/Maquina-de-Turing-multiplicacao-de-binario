@@ -108,13 +108,13 @@ Na máquina, esse processo é feito por um conjunto de estados que:
 
 A tabela abaixo mostra todos os caminhos possíveis da soma para operandos de 2 bits, além de um exemplo com 3 bits onde ocorre o carry extra (Z):
 
-![Tabela de caminhos da soma](img\TabelaSoma.png)
+![Tabela de caminhos da soma](img/TabelaSoma.png)
 
 **━━━━━━━━━━━━━━━━━━━ Testes no JFLAP ━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 A máquina foi testada com diferentes entradas para validar seu funcionamento:
 
-![Teste 1 - Multiplicação](img\Testes.jpg)
+![Teste 1 - Multiplicação](img/Testes.jpg)
 
 ---
 
