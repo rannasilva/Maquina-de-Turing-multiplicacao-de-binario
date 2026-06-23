@@ -1,4 +1,4 @@
-# Maquina-de-Turing-multiplicacao-de-binario
+# Maquina de Turing - Multiplicação de Binario
 Máquina de Turing no JFLAP que multiplica dois números binários por soma sucessiva.
 
 ---
